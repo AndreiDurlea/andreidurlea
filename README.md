@@ -1,2 +1,1 @@
-# Dream big,
-Build with purpose.
+# Building
